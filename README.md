@@ -4,6 +4,8 @@
 ## Accessing the database
 use market;
 
+![schema](https://user-images.githubusercontent.com/83721019/220250821-0a490130-13c8-4028-b47b-d5b6fd133f81.png)
+
 ### Inspecting customer dimension dataset
 ```sql
 select *
